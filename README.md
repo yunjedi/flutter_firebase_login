@@ -21,3 +21,5 @@ Da tich hop Jira Cloud voi GitHub qua Smart Commit (project key: SCRUM).
 
 Bat dau xu ly task SCRUM-1.
 
+Hoan thanh task SCRUM-1.
+
