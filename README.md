@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## connect to jira
 
+Da tich hop Jira Cloud voi GitHub qua Smart Commit (project key: SCRUM).
+
